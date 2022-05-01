@@ -1,6 +1,6 @@
 # Click Posture
 
-**Click Posture** is an mobile application developed by Group SE-41 Team SOONAMI of IIT.
+**Click Posture** is a mobile application developed by Group SE-41 Team SOONAMI of IIT.
 
  
 ## Introduction
