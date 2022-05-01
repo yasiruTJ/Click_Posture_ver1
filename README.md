@@ -12,3 +12,5 @@
 ## Introduction
 
 Due to the pandemic situation around the world and busy living schedules, many individuals prefer to do their workouts from home instead of going to the gym on a regular basis. This repository is about the **Click Posture** mobile application that tracks users workout posture from an image uploaded to the application and provides a feedback to the user concerning that the current posture is accurate or not according to the uploaded file.
+
+![ ALT](/C:\Users\Nimesh Tharusha\Downloads).
