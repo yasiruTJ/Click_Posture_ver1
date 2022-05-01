@@ -1,3 +1,3 @@
-# _SOONAMI_
+# Click Posture
 
-This is a project of SDGP-SE-41 to recognize exersice poses.
+Click Posture is an mobile application developed by Group SE-41 Team SOONAMI of IIT.
