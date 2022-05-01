@@ -5,10 +5,18 @@
  
 ## Introduction
 
-Due to the pandemic situation around the world and busy living schedules, many individuals prefer to do their workouts from home instead of going to the gym on a regular basis.  Although there are many tutorials on how to engage with exercises, people are finding it hard to understand how they can correct their postures with too much misleading information and inability to see the users movements by the mentor tends to cause errors in the posture which sometimes can cause permanent injuries. This repository is about the **Click Posture** mobile application that tracks users workout posture from an image uploaded to the application and provides a feedback to the user concerning that the current posture is accurate or not according to the uploaded file.
+Due to the pandemic situation around the world and busy living schedules, many individuals prefer to do their workouts from home instead of going to the gym on a regular basis. This repository is about the **Click Posture** mobile application that tracks users workout posture from an image uploaded to the application and provides a feedback to the user concerning that the current posture is accurate or not according to the uploaded file.
 
 
 ![sweaty-black-athlete-doing-sit-ups-in-a-gym-royalty-free-image-1591197876](https://user-images.githubusercontent.com/99609978/166156318-6c13d430-c3b2-4a37-8120-148075279c4e.jpg)
+
+## Problem Background
+
+Although there are many tutorials on how to engage with exercises, people are finding it hard to understand how they can correct their postures with too much misleading information and inability to see the users movements by the mentor tends to cause errors in the posture which sometimes can cause permanent injuries.
+
+## Aim of the Project
+
+The purpose of the project is to design and develop a  mobile application that tracks posture and gives user a feedback about their posture is accurate or not.
 
 ### Members
 
