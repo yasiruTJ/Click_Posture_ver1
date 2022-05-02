@@ -1,7 +1,6 @@
 import os
 
 import cv2
-import firebase as firebase
 import matplotlib.patches as patches
 import numpy as np
 import tensorflow as tf
@@ -11,8 +10,21 @@ from flask import Flask
 # Import matplotlib libraries
 from matplotlib import pyplot as plt
 from matplotlib.collections import LineCollection
+import pyrebase
 
 app = Flask(__name__)
+
+firebaseConfig = {
+  "apiKey": "AIzaSyDseX8aBbADOOQPBo_TeK7vNsGzK3Ghm3c",
+  "authDomain": "posture-io.firebaseapp.com",
+  "projectId": "posture-io",
+  "storageBucket": "posture-io.appspot.com",
+  "messagingSenderId": "188627944864",
+  "appId": "1:188627944864:web:cacf19acd2aeeae98d50c5",
+  "databaseURL": ""
+}
+
+firebase = pyrebase.initialize_app(firebaseConfig)
 
 # Dictionary that maps from joint names to keypoint indices.
 KEYPOINT_DICT = {
